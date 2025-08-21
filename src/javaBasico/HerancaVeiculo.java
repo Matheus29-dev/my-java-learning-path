@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class HerancaVeiculo{
 
         String marca= "Ford";

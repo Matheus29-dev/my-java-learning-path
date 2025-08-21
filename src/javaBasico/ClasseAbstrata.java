@@ -1,3 +1,5 @@
+package javaBasico;
+
 abstract class ClasseAbstrata {
     abstract void metodoAbstract();
 

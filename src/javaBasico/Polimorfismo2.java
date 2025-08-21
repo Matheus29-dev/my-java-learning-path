@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class Polimorfismo2 extends Polimorfismo1 {
 
     public void somAnimal() {

@@ -1,3 +1,5 @@
+package javaBasico;
+
 public enum Enum1 {
     SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO, DOMINGO;
 

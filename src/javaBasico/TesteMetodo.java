@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class TesteMetodo {
 
     static void meuMetodo() { // métodos são a mesma coisa que funções

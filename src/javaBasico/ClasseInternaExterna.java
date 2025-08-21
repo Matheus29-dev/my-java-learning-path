@@ -1,3 +1,5 @@
+package javaBasico;
+
 class ClasseInternaExterna {
     int a = 10;
 

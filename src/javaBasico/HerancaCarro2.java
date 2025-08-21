@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class HerancaCarro2 extends HerancaVeiculo{
         private final String modelo= "Mustang";
 

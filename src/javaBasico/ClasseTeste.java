@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class ClasseTeste {
     String carroNome;
     int ano;

@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class Polimorfismo1 {
 
     public void somAnimal() {

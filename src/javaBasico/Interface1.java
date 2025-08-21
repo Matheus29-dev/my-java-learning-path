@@ -1,3 +1,5 @@
+package javaBasico;
+
 public interface Interface1 { // usa-se interface pela segurança
     public void metodo1();
 }

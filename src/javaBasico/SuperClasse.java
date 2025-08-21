@@ -1,3 +1,5 @@
+package javaBasico;
+
 class SuperClasse {
 
     SuperClasse() {
