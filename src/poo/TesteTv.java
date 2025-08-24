@@ -12,7 +12,7 @@ public class TesteTv {
         obj1.mudo();
         obj1.desligarTv();
         obj1.menuTv();
-        
+        obj1.desligarTv();
         
     }
 
