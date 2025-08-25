@@ -17,6 +17,7 @@ public class LutadorTeste {
         ufc.marcarLuta(obj1, obj2);
         ufc.luta();
         obj1.apresentacaoLutador();
+        obj2.categoria();
 
     }
 
