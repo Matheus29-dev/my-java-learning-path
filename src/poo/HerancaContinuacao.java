@@ -40,7 +40,7 @@ public class HerancaContinuacao extends HerancaPoo {
         System.out.println("Nome da competição: " + this.getNomeCompeticao());
     }
 
-    @Override
+    @Override   //isso é polimorfismo
     public void testeOverride(){
         System.out.println("Novo override");
     }
@@ -49,9 +49,9 @@ public class HerancaContinuacao extends HerancaPoo {
         
         HerancaContinuacao obj = new HerancaContinuacao("Cruzeiro", "Brasil", "Belo Horizonte", 39, 1921, new Date(), "Azul e Branco", "Brasileirão");
         
-        obj.ganhouTitulo();
+        obj.ganhouTitulo(); // método de outra classe
         obj.infoTime();
-        obj.testeOverride();
+        obj.testeOverride(); //método feito com polimorfismo
     }
 
 }
